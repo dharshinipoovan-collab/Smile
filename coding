@@ -1,0 +1,3 @@
+age=int("Enter the age")
+if(age>18);
+print("Eligible for vote")
